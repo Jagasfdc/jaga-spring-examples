@@ -17,7 +17,6 @@ public class Employee {
 		this.name = name;
 	}
 	public void show(){
-		System.out.println("Id Value : "+id);
-		System.out.println("name Value : "+name);
+		System.out.println("Id Value : "+id+" name Value : "+name);
 	}
 }
